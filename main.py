@@ -1,0 +1,1 @@
+n = input ("Podaj liczbę nieparzystą:")
